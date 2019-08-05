@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">alctest</string>
+    <string name="my_profile">My Profile</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_number">0726573316</string>
+    <string name="my_country">Kenya</string>
+    <string name="my_track">Android</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="email">Email:</string>
+    <string name="country">Country:</string>
+    <string name="track">Track:</string>
+    <string name="my_image">My Image</string>
+    <string name="my_email">Cnjagik@gmail.com</string>
+    <string name="my_name">Collins Njagi Kinyua</string>
+    <string name="all_about_alc_4_0">All About ALC 4.0</string>
+</resources>
